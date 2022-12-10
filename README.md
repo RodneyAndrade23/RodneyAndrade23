@@ -9,7 +9,7 @@
 ![Rodney GitHub stats](https://github-readme-stats.vercel.app/api?username=RodneyAndrade23&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyAndrade23&layout=compact)](https://github.com/RodneyAndrade23/github-readme-stats)
 
-## Tecnologias que estou aprendendo e aperfeiçoando! 
+## Tecnologias que estou aprendendo e evoluindo com cada aprendizado! 
 
 [![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Skills](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
