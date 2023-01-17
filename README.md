@@ -1,5 +1,5 @@
 
-## Olá eu sou o Rodney Andrade 🤙🏾
+## Olá! Eu sou o Rodney Andrade 🤙🏾
 
 [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RodneyPAndrade)
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rodney_Andrade1)
