@@ -6,7 +6,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-andrade23/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodney_andrade/)
 
-![Rodney GitHub stats](https://github-readme-stats.vercel.app/api?username=RodneyAndrade23&show_icons=true&theme=chartreuse-dark)
+![Rodney GitHub stats](https://github-readme-stats.vercel.app/api?username=RodneyAndrade23&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyAndrade23&layout=compact)](https://github.com/RodneyAndrade23/github-readme-stats)
 
 ## Tecnologias que estou aprendendo e evoluindo com cada aprendizado! 
